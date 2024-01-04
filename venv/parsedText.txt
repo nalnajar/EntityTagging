@@ -1,0 +1,38 @@
+
+Email: tom.brady@gmail.comEntity: Dave - PERSON
+Entity: Iâ€ - GPE
+POS: invest
+Entity: 10,000 - MONEY
+Entity: Microsoft - ORG
+Entity: 15,000 - MONEY
+Entity: Amazon - ORG
+Entity: Tom - PERSON
+
+Email: bjohnson@sympatico.caEntity: 8500 - MONEY
+Entity: Apple - ORG
+Entity: thatâ€ - GPE
+
+Email: andy.average@gmail.comEntity: Edward - PERSON
+POS: do
+Entity: $ - MONEY
+Entity: 50 - MONEY
+Entity: thousand - MONEY
+Entity: Infotech - ORG
+Entity: Inc. - ORG
+Entity: 10,000 - MONEY
+Entity: Amazon - ORG
+Entity: just - MONEY
+Entity: $ - MONEY
+Entity: 5000 - MONEY
+Entity: Newcorp - ORG
+POS: Call
+
+Email: john.public@rogers.comEntity: 11,200 - MONEY
+Entity: Microsoft - ORG
+Entity: Windows - ORG
+Entity: Regards - ORG
+Entity: John - PERSON
+Entity: 
+ - PERSON
+Entity: < - PERSON
+Entity: < - PERSON
